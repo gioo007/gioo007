@@ -2,7 +2,8 @@
 <p align="center">
   Computer & AI Engineering student · Ain Shams University & University of East London · Cairo, Egypt<br>
   <a href="https://giovanni-ayman.me">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/giovanni-ayman">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/giovanni-ayman">LinkedIn</a> ·
+  <a href="https://www.kaggle.com/gioayman">Kaggle</a>
 </p>
 
 ---
